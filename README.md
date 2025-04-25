@@ -22,6 +22,9 @@ email: vuonhiendai@gmail.com
 
 ## ver1.250420
 - Start the project
+## ver1.250425
+- Build the message and signal
+
 ## ver1.250423
 - Finish the structure of build the GUI
 
